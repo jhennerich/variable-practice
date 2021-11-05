@@ -21,4 +21,6 @@ repeat_order = false
 pizza_size = ["small", "medium", "large"]
 customer_info = [name, address, phone_number]
 
+#Hash vars
+customer = { name => phone_number }
 
